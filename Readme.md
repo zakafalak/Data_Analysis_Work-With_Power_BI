@@ -18,7 +18,7 @@
 <ul>
   <li>	Read the sample business request, demand overview & filled-out user stories to understand the problem we are trying to solve with Data Analysis and what we consider as a solution.</li>
 </ul>
-<h3>Dashboard Desing</h3>
+<h4>Dashboard Desing</h4>
 <ul>
   <li>Load Data</li>
   <li>Organize & Prepare Tables</li>
